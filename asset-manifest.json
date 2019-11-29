@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/skkstudio.github.io/vksescminiapp/static/css/main.981f7211.chunk.css",
-    "main.js": "/skkstudio.github.io/vksescminiapp/static/js/main.6596dd48.chunk.js",
-    "main.js.map": "/skkstudio.github.io/vksescminiapp/static/js/main.6596dd48.chunk.js.map",
-    "runtime-main.js": "/skkstudio.github.io/vksescminiapp/static/js/runtime-main.9c4c5671.js",
-    "runtime-main.js.map": "/skkstudio.github.io/vksescminiapp/static/js/runtime-main.9c4c5671.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/skkstudio.github.io/vksescminiapp/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.3ecfb6fa.chunk.js": "/skkstudio.github.io/vksescminiapp/static/js/2.3ecfb6fa.chunk.js",
-    "static/js/2.3ecfb6fa.chunk.js.map": "/skkstudio.github.io/vksescminiapp/static/js/2.3ecfb6fa.chunk.js.map",
-    "index.html": "/skkstudio.github.io/vksescminiapp/index.html",
-    "precache-manifest.10e05020a07eccdcedf3c2b5eb721b3d.js": "/skkstudio.github.io/vksescminiapp/precache-manifest.10e05020a07eccdcedf3c2b5eb721b3d.js",
-    "service-worker.js": "/skkstudio.github.io/vksescminiapp/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/skkstudio.github.io/vksescminiapp/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/skkstudio.github.io/vksescminiapp/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/skkstudio.github.io/vksescminiapp/static/media/persik.4e1ec840.png"
+    "main.css": "/vksescminiapp/static/css/main.981f7211.chunk.css",
+    "main.js": "/vksescminiapp/static/js/main.6596dd48.chunk.js",
+    "main.js.map": "/vksescminiapp/static/js/main.6596dd48.chunk.js.map",
+    "runtime-main.js": "/vksescminiapp/static/js/runtime-main.d84b9899.js",
+    "runtime-main.js.map": "/vksescminiapp/static/js/runtime-main.d84b9899.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/vksescminiapp/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.6f0a38e4.chunk.js": "/vksescminiapp/static/js/2.6f0a38e4.chunk.js",
+    "static/js/2.6f0a38e4.chunk.js.map": "/vksescminiapp/static/js/2.6f0a38e4.chunk.js.map",
+    "index.html": "/vksescminiapp/index.html",
+    "precache-manifest.0cbe373be20f3959069ad2ae0accaf7e.js": "/vksescminiapp/precache-manifest.0cbe373be20f3959069ad2ae0accaf7e.js",
+    "service-worker.js": "/vksescminiapp/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/vksescminiapp/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vksescminiapp/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/vksescminiapp/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c4c5671.js",
+    "static/js/runtime-main.d84b9899.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.3ecfb6fa.chunk.js",
+    "static/js/2.6f0a38e4.chunk.js",
     "static/css/main.981f7211.chunk.css",
     "static/js/main.6596dd48.chunk.js"
   ]
