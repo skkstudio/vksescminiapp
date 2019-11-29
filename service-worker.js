@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/precache-manifest.228c4c992e0cf1b24f2d4c5d623a86e6.js"
+  "/skkstudio.github.io/vksescminiapp/precache-manifest.10e05020a07eccdcedf3c2b5eb721b3d.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/skkstudio.github.io/vksescminiapp/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
