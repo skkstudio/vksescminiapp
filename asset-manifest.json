@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/css/main.981f7211.chunk.css",
+    "main.js": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/js/main.6596dd48.chunk.js",
+    "main.js.map": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/js/main.6596dd48.chunk.js.map",
+    "runtime-main.js": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/js/runtime-main.d66c9e8a.js",
+    "runtime-main.js.map": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/js/runtime-main.d66c9e8a.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.6a3ca6ed.chunk.js": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/js/2.6a3ca6ed.chunk.js",
+    "static/js/2.6a3ca6ed.chunk.js.map": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/js/2.6a3ca6ed.chunk.js.map",
+    "index.html": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/index.html",
+    "precache-manifest.228c4c992e0cf1b24f2d4c5d623a86e6.js": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/precache-manifest.228c4c992e0cf1b24f2d4c5d623a86e6.js",
+    "service-worker.js": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "%7Bskkstudio%7D.github.io/%7Bvksescminiapp%7D/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d66c9e8a.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.6a3ca6ed.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.6596dd48.chunk.js"
+  ]
+}
